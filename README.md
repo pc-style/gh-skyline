@@ -1,3 +1,9 @@
+> **Archived upstream fork/reference — do not use for new work.**  
+> **Upstream:** [https://github.com/github/gh-skyline](https://github.com/github/gh-skyline)  
+> **License/provenance:** Preserved upstream history and existing license/provenance notices (MIT).  
+> **Current code, releases, issues, and security:** Use upstream.  
+> **Maintained pc-style delta:** None (apart from this archive notice).
+
 # GitHub Skyline (gh-skyline)
 
 A GitHub CLI extension that generates 3D-printable STL files of your GitHub contribution graph.
